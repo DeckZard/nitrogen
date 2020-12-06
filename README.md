@@ -3,7 +3,6 @@
 # pkg install nodejs
 # git clone DeckZard/nitrogen
 # cd nitrogen
-# npm i discord.js
 # npm i request
 # node nitro.js
 # Porfavor No Robar El Codigo!
