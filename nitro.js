@@ -1,4 +1,5 @@
 const request = require('request');
+console.log("Funcionando!")
   for (let step = 0; step < 9; step++) {
     setInterval(() => {
       let code = '';
